@@ -2927,11 +2927,6 @@ Now you can run your app like this:
 bundle exec ruby myapp.rb
 ```
 
-## Versioning
-
-Sinatra follows [Semantic Versioning](https://semver.org/), both SemVer and
-SemVerTag.
-
 ## Further Reading
 
 * [Project Website](https://sinatrarb.com/) - Additional documentation,
